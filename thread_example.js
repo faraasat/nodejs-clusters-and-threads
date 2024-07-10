@@ -1,3 +1,5 @@
+// thread_example.js (main file)
+
 const express = require("express");
 const { Worker } = require("node:worker_threads");
 

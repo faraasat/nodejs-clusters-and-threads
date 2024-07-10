@@ -1,3 +1,5 @@
+// worker-custom-threads.js
+
 const { workerData, parentPort } = require("node:worker_threads");
 
 // workerData is the data passed to the worker thread

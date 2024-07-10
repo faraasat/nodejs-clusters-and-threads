@@ -1,3 +1,5 @@
+// worker.js
+
 const { parentPort } = require("node:worker_threads");
 
 let i = 0;
